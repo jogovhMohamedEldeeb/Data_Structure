@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1679698081 source:o:\siglelinkedlist\doubly_linked_lsit\main.c
+	<stdio.h>
+	<stdlib.h>
+

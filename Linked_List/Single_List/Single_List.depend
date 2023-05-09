@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1679700724 source:o:\linked_list\single_list\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Single_List.h"
+
+1679700712 o:\linked_list\single_list\single_list.h
+	<stdio.h>
+	<stdlib.h>
+	"PlatForm_Types.h"
+
+1679699684 o:\linked_list\single_list\platform_types.h
+
+1679702312 source:o:\linked_list\single_list\single_list.c
+	"Single_List.h"
+
