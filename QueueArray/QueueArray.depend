@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1678969738 source:o:\queuearray\queuearray\main.c
+	<stdio.h>
+	<stdlib.h>
+	"QueueArray.h"
+
+1678968770 o:\queuearray\queuearray\queuearray.h
+	<stdio.h>
+	<stdlib.h>
+	"Paltform_Types.h"
+
+1678901818 o:\queuearray\queuearray\paltform_types.h
+
+1678970082 source:o:\queuearray\queuearray\queuearray.c
+	"QueueArray.h"
+
+1678969738 source:o:\queuearray\main.c
+	<stdio.h>
+	<stdlib.h>
+	"QueueArray.h"
+
+1678968770 o:\queuearray\queuearray.h
+	<stdio.h>
+	<stdlib.h>
+	"Paltform_Types.h"
+
+1678901818 o:\queuearray\paltform_types.h
+
+1678970082 source:o:\queuearray\queuearray.c
+	"QueueArray.h"
+
