@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1678988849 source:o:\stackarrayds\stackarrayds\main.c
+	<stdio.h>
+	<stdlib.h>
+	"StackArrayDs.h"
+
+1678978644 o:\stackarrayds\stackarrayds\stackarrayds.h
+	<stdlib.h>
+	"Platform_Types.h"
+
+1678576329 o:\stackarrayds\stackarrayds\platform_types.h
+
+1678978644 source:o:\stackarrayds\stackarrayds\stackarrayds.c
+	"StackArrayDs.h"
+
