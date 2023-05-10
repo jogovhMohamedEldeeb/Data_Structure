@@ -12,7 +12,7 @@ void *Stack_ret = NULL;
 
 int main()
 {
-   /* StackStatus_t Stack1_Status = STACK_NOK;
+    StackStatus_t Stack1_Status = STACK_NOK;
 
 
     printf("Enter number of element : ");
@@ -41,18 +41,10 @@ int main()
     if(!stack1)
     {
         printf("Stack 1 created \n");
-    }*/
-    int n1=2,n2=3;
-    /*scanf("%d%d",&n1,&n2);
-    int ans=n1-(n1/n2)*n2;
-    printf("Modulus = %d \n",ans);*/
-    /*n1++;
-    printf("%d \n", ++n1);
-    int t=n1++;
-    printf("%d \n", t);*/
-    int x=6,y=7,z=8,w;
-    w=(x++) + (y++) + (--z);
-    printf("W = %d \n", w);
+    }
+    
+  
+ 
 
     return 0;
 }
